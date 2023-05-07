@@ -105,6 +105,10 @@ body {
     font-family: var(--fonte-secundaria);
 }
 
+button{
+    background-color: black;
+}
+
 #foto{
     border-radius: 10px;
     width: 50%;
